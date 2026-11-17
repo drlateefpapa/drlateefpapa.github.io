@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.drlateefpapa.twa",
+        "sha256_cert_fingerprints": ["FB:C9:CA:9D:6A:59:E3:0A:9B:9E:F5:9D:BD:3E:61:94:34:1B:9F:78:82:64:6A:2F:AF:96:71:0E:63:0B:6F:50"]
+      }
+    }]
